@@ -11,6 +11,7 @@
 
 (function () {
   'use strict';
+  console.log('corehi');
   const getStoreListWrapper = () => {
     return document.querySelector('.container #userList');
   };
